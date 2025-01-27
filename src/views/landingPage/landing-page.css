@@ -1,0 +1,10 @@
+.hero {
+    background-image: url('../../assets/images/hero/hero-bg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.css-1c35hjw-MuiPaper-root-MuiAccordion-root::before {
+    height: 0 !important;
+}
